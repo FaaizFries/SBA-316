@@ -1,1 +1,1 @@
-# SBA-316
+for this project I created a form and used dom manipulation, so basicaly what you have to do is write which car you want by entering make, model, and year. if you add numbers for make it will say its false and alert you, if you add letters for year it will also alert you, if you do it correctly it will just alert what car you have said. try it for yourself.
